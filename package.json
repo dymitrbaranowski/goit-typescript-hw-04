@@ -43,5 +43,39 @@
   },
   "devDependencies": {
     "@types/lodash": "^4.14.195"
+  },
+  "description": "У вас є компонент React, який використовує useRef та IntersectionObserver для визначення, коли користувач переглядає кінець вмісту. Ваше завдання полягає в наступному:",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+{
+  "name": "courses_ts",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@web/dev-server": "^0.2.1"
+  }
+}
+
+{
+  "name": "courses_ts",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@web/dev-server": "^0.2.1"
   }
 }
